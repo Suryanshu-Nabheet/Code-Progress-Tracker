@@ -1,2 +1,19 @@
-# Code-Progress-Tracker
-To empower coding enthusiasts and learners by providing a platform to log their coding practice, track progress, and maintain consistency. The app motivates users with streaks, badges, and daily coding challenges, fostering a habit of regular coding.
+# Code Progress Tracker
+
+Code Progress Tracker is a Flutter application designed to help coding enthusiasts log their daily practice, track streaks, earn badges, and stay motivated.
+
+## Founder
+
+-**Suryanshu Nabheet
+
+## Features
+
+- **Daily Log:** Log coding hours and notes.
+- **Streak Tracker:** Visualize streaks of consistent practice.
+- **Achievements:** Earn badges for milestones.
+
+## Getting Started
+
+1. Clone the repository.
+2. Run `flutter pub get` to fetch dependencies.
+3. Launch the app using `flutter run`.
