@@ -4,7 +4,7 @@ Code Progress Tracker is a Flutter application designed to help coding enthusias
 
 ## Founder
 
--**Suryanshu Nabheet
+-~~-> Suryanshu Nabheet
 
 ## Features
 
